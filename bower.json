@@ -1,0 +1,26 @@
+{
+  "name": "jsrbac",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jldupont/jsrbac",
+  "authors": [
+    "Jean-Lou Dupont <github@jldupont.com>"
+  ],
+  "description": "Javascript library for RBAC (Role Based Access Control)",
+  "main": "jsrbac.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "rbac",
+    "access-control",
+    "access"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
