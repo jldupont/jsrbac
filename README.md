@@ -47,7 +47,7 @@ var whatever_user = { roles: [$role1, $role2, ...], ... };
 ```
 As long as the object passed contains the key 'roles', it is considered a 'user' instance.
 
-WORK IN PROGRESS
-================
+Server Side
+===========
 
-This project is work in progress.  
+This project complements the following https://github.com/jldupont/pyrbac.   
