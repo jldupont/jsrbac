@@ -30,8 +30,12 @@ Role
 The data type 'role' is defined as follows:
 
 ```javascript
-var whatever_role = [ $permission1, $permission2, ...];
+var whatever_role = {
+                        a: true | false 
+						,p: [$permission1, $permission2, ...]
+					};
 ```
+Where 'a' represents the 'admin' flag.  When 'true', this role conveys all permissions.
  
 User
 ----
