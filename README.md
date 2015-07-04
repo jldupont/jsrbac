@@ -1,3 +1,6 @@
+### Status
+[![Build Status](https://travis-ci.org/jldupont/jsrbac.svg?branch=master)](https://travis-ci.org/jldupont/jsrbac)
+
 Description
 ===========
 
